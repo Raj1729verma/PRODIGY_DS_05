@@ -31,7 +31,7 @@ The dataset contains several million records of traffic accidents across the Uni
 - Road features (traffic signal, junction, crossing, stop sign, etc.)
 - Severity of the accident
 
-> **Note:** The dataset is large. For this analysis, a filtered/sampled subset was used to keep processing efficient.
+
 
 ---
 
@@ -78,7 +78,7 @@ The dataset contains several million records of traffic accidents across the Uni
 - Certain metro/urban areas emerge as clear **hotspots** with dense clusters of incidents.
 - Weekdays see more accidents than weekends, consistent with commuter traffic patterns.
 
-*(Update this section with your own specific findings and numbers once your analysis is finalized.)*
+
 
 ---
 
